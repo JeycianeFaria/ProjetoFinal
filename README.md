@@ -58,7 +58,7 @@ Funcionalidades documentadas via Swagger e Postman Collection.
 
 - Swagger: http://localhost:8080/swagger-ui/index.html#/
 
-- Postman collection: [ZupLink.postman_collection.zip](https://github.com/JeycianeFaria/ProjetoFinal/blob/2facf188335ae9be0387f3c75c1da3507b25e659/ZupLink.postman_collection.zip)
+- Postman collection: [zupLink.zip](https://github.com/JeycianeFaria/ProjetoFinal/blob/f0efe2c99779a613978051a66a04607bfea0c78c/zupLink.zip)
 - Heroku: https://zup-link.herokuapp.com/swagger-ui/index.html# (apenas rotas públicas disponíveis para teste)
 
 
