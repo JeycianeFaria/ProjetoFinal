@@ -18,7 +18,7 @@ O problema a ser resolvido foi pensado de estrelas fora da caixa para estrelas f
 - Apenas o usuário poderá deletar o próprio cadastro;
 -Apenas usuários autenticados poderão fazer postagens;
 - Não poderão existir postagens com links iguais;
-- As postagens terão filtros de busca (tipo, tema, área, mais curtidas, por autor da postagem, por data de postagem);
+- As postagens terão filtros de busca (tipo, tema, área, por autor da postagem, por data de postagem);
 -Apenas o autor da postagem poderá editá-la, nos seguintes campos: título, descrição, tema e área;
 -Somente usuários logados poderão curtir as postagens;
 -Apenas o autor poderá excluir a própria postagem.
@@ -29,7 +29,7 @@ O problema a ser resolvido foi pensado de estrelas fora da caixa para estrelas f
 
 - JAVA JDK
 - Maven
-- MariaDB/MySQL
+- MariaDB/MySQL ou Postgres
 
 [Link para instalar o Maven](https://maven.apache.org/download.cgi)
 
@@ -48,6 +48,9 @@ Será possível testar a aplicaçao em: localhost:8080/
 - Swagger
 - Maven
 - Junit
+- MariaDB/Postgres
+- Heroku
+- Postman
 
 ## SERVIÇOS
 
@@ -56,6 +59,7 @@ Funcionalidades documentadas via Swagger e Postman Collection.
 - Swagger: http://localhost:8080/swagger-ui/index.html#/
 
 - Postman collection: [ZupLink.postman_collection.zip](https://github.com/JeycianeFaria/ProjetoFinal/blob/2facf188335ae9be0387f3c75c1da3507b25e659/ZupLink.postman_collection.zip)
+- Heroku: https://zup-link.herokuapp.com/swagger-ui/index.html# (apenas rotas públicas disponíveis para teste)
 
 
 
